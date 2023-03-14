@@ -2,3 +2,6 @@ This is my recipy
 
 1.Chapati
 2.Bhaji
+
+3.Chicken Fry
+4.Mutton Biryani
